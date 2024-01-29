@@ -42,6 +42,8 @@ function App() {
       case "toCurrency":
         setToCurrency(value);
         break;
+      default:
+        break;
     }
   };
   return (
